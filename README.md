@@ -16,7 +16,7 @@ https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/Supplementary-Materials
 - [E · Proof of Theorem 3.2](https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/#proof-theorem-3-2)
 - [Download the complete supplementary PDF](https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/TLUSI-supplement.pdf)
 
-The website files are in `docs/`. Its math renderer and fonts are stored locally, so formula rendering does not require an external CDN.
+The website files are in `Supplementary-Materials/`. 
 
 ## Existing code
 
