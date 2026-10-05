@@ -4,9 +4,9 @@ Supplementary materials for **TLUSI: Twin Learning Using Statistical Invariants 
 
 ## Supplementary website
 
-Published through GitHub Pages after enabling `main` / `docs` in the repository's Pages settings:
+Published through GitHub Pages after enabling `main` / `(root)` in the repository's Pages settings:
 
-https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/
+https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/Supplementary-Materials/
 
 - [A · Distributional predicate library](https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/#distribution-library)
 - [B · Selected predicates, linear kernel](https://XiaoJingLv.github.io/TLUSI-for-Disease-Diagnosis/#linear-predicates)
